@@ -69,5 +69,5 @@ Arthur Almeida Lima · Daniel Santiago Purificação · Nicolas Caldeira dos San
 ---
 
 <p align="center">
-  Desenvolvido com ❤️ pela equipe Baixada Segura — Unisantos 2025
+  Desenvolvido com ❤️ pela equipe Baixada Segura — Unisantos 2026
 </p>
