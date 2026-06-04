@@ -60,11 +60,20 @@ Este repositório reúne toda a documentação técnica e de gestão produzida a
 
 ---
 
-## 👥 Equipe
 
-Projeto desenvolvido por estudantes da Universidade Católica de Santos:
+## Desenvolvedores
 
-Arthur Almeida Lima · Daniel Santiago Purificação · Nicolas Caldeira dos Santos · Nicolas Jimenes Haase · João Pedro Lira de Carvalho · João Vitor Ludovino Leite Alves
+Arthur Almeida Lima arthurlima@unisantos.br
+
+Daniel Santiago Purificação danielpurificacao@unisantos.br
+
+João Pedro Lira de Carvalho jcarvalho@unisantos.br
+
+João Vitor Ludovino Leite Alves j.alves@unisantos.br
+
+Nicolas Caldeira dos Santos nicolassantos@unisantos.br
+
+Nicolas Jimenes Haase nicolashaase@unisantos.br
 
 ---
 
