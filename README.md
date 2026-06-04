@@ -75,8 +75,4 @@ Nicolas Caldeira dos Santos nicolassantos@unisantos.br
 
 Nicolas Jimenes Haase nicolashaase@unisantos.br
 
----
 
-<p align="center">
-  Desenvolvido com ❤️ pela equipe Baixada Segura — Unisantos 2026
-</p>
