@@ -35,7 +35,7 @@ O diferencial do projeto está em tratar segurança como critério principal de 
 
 O projeto é desenvolvido como iniciativa de extensão universitária pela **Universidade Católica de Santos (Unisantos)**, em parceria com a **Prefeitura de Bertioga**, com foco na Região Metropolitana da Baixada Santista.
 
-A proposta se apoia nos princípios de **cidades inteligentes** e **resiliência urbana**, buscando conectar o cidadão à cidade de forma ativa, informada e solidária — e com potencial de expansão para outros municípios com desafios semelhantes.
+A proposta se apoia nos princípios de **cidades inteligentes** e **resiliência urbana**, buscando conectar o cidadão à cidade de forma ativa, informada e solidária com potencial de expansão para outros municípios com desafios semelhantes.
 
 ---
 
